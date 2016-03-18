@@ -1,0 +1,1 @@
+srec_cat.exe $(PROJECT_DIR)$exe_output -intel -offset -0x8000 -o $(PROJECT_DIR)$(PROJECT_NAME).bin -binary
